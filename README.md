@@ -1,5 +1,5 @@
 # StudyGeniePro
-![Alt text](assets/study_genie.png)
+![Alt text](assets/studygenie.png)
 
 
 StudyGeniePro is a cutting-edge console-based sequential multi-agent system that provides a structured, agent-driven learning experience. Designed for self-learners in the era of Generative AI, StudyGeniePro eliminates the fragmentation and inefficiencies of traditional self-study methods. It guides users from "Zero-to-Hero" with a cohesive workflow, ensuring both structure and validation throughout the learning journey.
